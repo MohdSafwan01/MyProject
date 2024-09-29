@@ -1,5 +1,5 @@
 # MyProject
 this is my first git repos
 <br>
-Author:-safwan
+Author:-mohd safwan
 making the next change
